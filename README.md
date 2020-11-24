@@ -1,1 +1,1 @@
-# todo-list-android
+# generator-liczb-losowych
